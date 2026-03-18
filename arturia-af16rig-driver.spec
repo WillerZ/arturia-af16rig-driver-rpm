@@ -10,7 +10,7 @@
 %global _kmodtool_zipmodules 0
 
 Name:          arturia-af16rig-driver
-Epoch:         2
+Epoch:         1
 Version:       0.0.1
 # Taken over by kmodtool
 Release:       1%{?dist}
