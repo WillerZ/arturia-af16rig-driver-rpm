@@ -10,7 +10,7 @@
 %global _kmodtool_zipmodules 0
 
 Name:          arturia-af16rig-driver-kmod-common
-Epoch:         1
+Epoch:         2
 Version:       0.0.1
 Release:       1%{?dist}
 Summary:       Unofficial Arturia AudioFuse 16Rig driver kernel module common package
