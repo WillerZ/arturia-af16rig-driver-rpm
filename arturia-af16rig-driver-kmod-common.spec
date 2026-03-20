@@ -11,7 +11,7 @@
 
 Name:          arturia-af16rig-driver-kmod-common
 Epoch:         1
-Version:       0.0.1
+Version:       0.0.2
 Release:       1%{?dist}
 Summary:       Unofficial Arturia AudioFuse 16Rig driver kernel module common package
 License:       GPLv2 and MIT
@@ -30,5 +30,8 @@ echo "This package has no content and exists only because kmodtool requires that
 %{_datadir}/arturia-af16rig-driver-kmod-common/README
 
 %changelog
+* Mon Mar 16 2026 Phil Willoughby <willerz@gmail.com> - 1:0.0.2
+- Version changed
+
 * Mon Mar 16 2026 Phil Willoughby <willerz@gmail.com> - 1:0.0.1
 - First attempt

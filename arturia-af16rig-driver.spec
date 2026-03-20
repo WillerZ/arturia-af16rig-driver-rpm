@@ -11,7 +11,7 @@
 
 Name:          arturia-af16rig-driver
 Epoch:         1
-Version:       0.0.1
+Version:       0.0.2
 # Taken over by kmodtool
 Release:       1%{?dist}
 Summary:       Unofficial Arturia AudioFuse 16Rig driver kernel module
@@ -64,5 +64,8 @@ done
 %{?akmod_install}
 
 %changelog
+* Fri Mar 20 2026 Phil Willoughby <willerz@gmail.com> - 1:0.0.2
+- Improved shortname for easier ALSA naming
+
 * Mon Mar 16 2026 Phil Willoughby <willerz@gmail.com> - 1:0.0.1
 - First attempt
