@@ -1,3 +1,1 @@
-# RPM specs for the AF16Rig driver on Fedora with akmod
-
-If you don't know what all the things in the title refer to, you should ignore this repo. If you do know all those terms, you should already know what to do with it.
+Don't use this, [add these patches to the kernel instead](https://lore.kernel.org/linux-sound/20260327182052.13364-1-willerz@gmail.com/T/#u)
